@@ -1,7 +1,9 @@
 #Simple CAM toolchain
 
-[//]: # (This is a comment that should not be viewable)
-[//]: # (Multiple lines of comments)
+[//]: # (Licensed Materials - Property of IBM)
+[//]: # (\(C\) Copyright IBM Corp. 2016. All Rights Reserved.)
+[//]: # (US Government Users Restricted Rights - Use, duplication or)
+[//]: # (disclosure restricted by GSA ADP Schedule Contract with IBM Corp.)
 
 This Hello World application uses Node.js and includes a DevOps toolchain that is preconfigured for continuous delivery, source control, issue tracking, and online editing.
 
