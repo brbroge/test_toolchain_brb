@@ -1,5 +1,7 @@
 #Simple CAM toolchain
 
+[//] # This is a comment that should not be viewable
+
 This Hello World application uses Node.js and includes a DevOps toolchain that is preconfigured for continuous delivery, source control, issue tracking, and online editing.
 
 To get started, click **Create toolchain**.
